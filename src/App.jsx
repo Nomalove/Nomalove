@@ -1,4 +1,4 @@
-export const NomaloveComponent = ({title,description}) => {
+export function NomaloveComponent({title,description}) {
   return(
     <>
      <h1>{title}</h1>
