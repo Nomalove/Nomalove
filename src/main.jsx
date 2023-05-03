@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { NomaloveComponent } from './App.jsx'
+import {BlogRouting} from './assets/components'
+<components></components>
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
